@@ -64,3 +64,5 @@ This talk is important because as web applications increase in complexity, the d
 
 ## Given at
 - ...
+
+[Format Credit](https://mercedesbernard.com/blog/start-conf-speaking-abstract/)
