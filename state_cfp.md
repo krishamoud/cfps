@@ -1,4 +1,4 @@
-# Statful is the opposite of Stable
+# Stateful is the opposite of Stable
 
 ## Format
 30-40 min talk with Q&A
