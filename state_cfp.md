@@ -53,10 +53,13 @@ I want the audience to have an understanding of how bugs can sneak into producti
 See ##brainstorm
 
 ## Description
-Modern web applications can be complicated. As they increase in complexity we must be vigilant about understanding how all the pieces fit together.  It is our job as developers to change the state of the applications we build but we must understand that changing the state of one piece can change how our application works fundamentally.  We must be intentional about what we're changing, why, what the expected outcome is, and how to meassure it's success.
+Modern web applications can be complicated. As they increase in complexity, we must be vigilant about understanding how all the pieces fit together. It is our job as developers to change the state of the applications we build, but we must understand that changing the state of one piece can change how our application works fundamentally. We must be intentional about what we're changing, why, what the expected outcome is, and how to measure its success.
 
 ## Abstract
 This talk is important because as web applications increase in complexity, the difficulty in debugging them also increases.  This talk could help developers learn how to reduce the surface area of the bugs their code could produce.  The talk will acknowledge that bugs are inevitable but we can make finding them, reproducing them, and fixing them easier.  The talk will achieve that by teaching techniques to reduce state transitions across the entire stack which makes isolating bugs to specific changes easier to detect.  Following these techniques is how ConvertKit scaled from a $13M/year business to a $40M/year business with only two infrastructure engineers.
+
+## Abstract 2
+Web applications' growing complexity makes debugging more demanding. This talk addresses this issue. It provides developers with practical strategies to reduce the bug surface area and acknowledges that bugs are inevitable. Attendees will learn techniques to reduce state transitions across the entire stack, which makes isolating and detecting specific changes easier. These methods have proven effective in scaling product footprints, demonstrating their potential to streamline development and enhance productivity with a lean engineering team.
 
 ## Submitted to
 - ...
